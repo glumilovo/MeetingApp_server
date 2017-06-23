@@ -1,3 +1,4 @@
+
 """
 Django settings for SANYA project.
 
@@ -25,7 +26,7 @@ SECRET_KEY = 'zc!v51d^)$!*&f95b$xu*_c#-v6n4-_wnk!e_0&e+!59t@-=py'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['172.20.10.4']
+ALLOWED_HOSTS = ['176.195.68.150']
 
 # Application definition
 

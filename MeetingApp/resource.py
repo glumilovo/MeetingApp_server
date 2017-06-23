@@ -5,7 +5,7 @@ from MeetingApp.models import User, Message
 
 class UserResource(ModelResource):
     model = User
-    fields = ('email', 'password', 'name', 'surname', 'city')
+    fields = ('email', 'password', 'name', 'surname', 'city', 'sex', 'date_of_birth', 'image')
 
 
 class MessageResource(ModelResource):
